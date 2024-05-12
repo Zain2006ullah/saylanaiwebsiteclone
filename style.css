@@ -1,6 +1,23 @@
-.bynbtnsucces{
-    margin: 50px;
+.btn-succes{
+    margin: 16px;
+    height: 16px;
+    display: inline;
+    border: 0;
 }
-.color_theme_green{
-    float: left;
+
+h1{
+    margin: 0px 0px 19px;
+    padding-right: 10px; 
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 40px;
+    flex: 1;
+}
+
+.container-flex {
+    align-items: first baseline;
+    height: 100px;
+    display: flex;
+    justify-content: end;
+
 }
